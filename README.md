@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASKARWORLD
-- 👀 I am working worlwide as a Autsourcing Project Manager for the WEB and Mobile application's development  
+- 👀 I am working worlwide more than 10 years as a autsourcing Project Manager for the WEB and Mobile application's development  
 - 🌱 I am open for new projects and have a lot of experinced colleagues and business connections with experienced teams 
 - 💞️ I and my colleagues can speak Japanese, English, Ukraine and other languages 
 - 📫 Please feel free to contact me about new projects and new job opportunities 
