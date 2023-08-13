@@ -3,7 +3,7 @@
 </div>
 - 👋 Hi, my name is ASKAR はじめまして、アスカルと申します。
 - 👀 I am working more than 10 years as a Project Manager for the WEB and Mobile application's development  
-- 🌱 I have a lot of experinced colleagues and business connections with experienced teams 
+- 🌱 I have a lot of experinced colleagues and many connections with experienced teams 
 - 💞️ I and my colleagues can speak Japanese, English, Ukraine and other languages 
 - 📫 Please feel free to contact me about new projects and new job opportunities 
 
