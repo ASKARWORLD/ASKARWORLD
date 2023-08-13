@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2gwMXU2dzdkb2hpMjFrbDVkOGE2eWwxOTBkemdpZmNrdDZvYXhzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H5H3eltXPdmPXz3gTZ/giphy.gif" width="170"/>
 </div>
-- 👋 Hi, my name is ASKAR はじめまして、アスカルと申します。
-- 👀 I am working more than 10 years as a Project Manager for the WEB and Mobile application's development  
-- 🌱 I have a lot of experinced colleagues and many connections with experienced teams 
-- 💞️ I and my colleagues can speak Japanese, English, Ukraine and other languages 
-- 📫 Please feel free to contact me about new projects and new job opportunities 
+- 👋 はじめまして、アスカルと申します。WEBとモバイルの開発と運営で１５年以上の経験を持っております。
+- 👀 外国人と日本人のデザイナーとエンジニアたちと協力をしながら、１５年の間に強い専門家のネットワークを作ってきました。  
+- 🌱 幅広い領域で経験をしてきましたので狭い分野の専門的なの仕事でも、フールステックの仕事でも可能です。サイトのリニュアル、モバイルアップリケーション、サーバーの管理等等。 
+- 💞️ 小さな仕事でも真剣に対応しておりますので役務提供で全省庁統一のCクラスまで登ってきました。取引先の間には政府機関、上場企業、総合商社、銀行、大手なメーカーも多数。 
+- 📫 お問い合わせを心からお待ちしております。 
 
 #### :hammer_and_wrench: Languages and Tools :hammer_and_wrench: 言語とツール
 <div>
